@@ -11,17 +11,15 @@ Realizar operaciones aritméticas con números complejos, tanto en su forma pola
 
 2. MARCO TEÓRICO 
 
-Este punto requiere que el estudiante realice una amplia consulta bibliográfica sobre el tema de su trabajo.
+![image](https://user-images.githubusercontent.com/105679480/186894677-1da2afde-309f-4c46-8c44-ee7caad23224.png)![image](https://user-images.githubusercontent.com/105679480/186894707-42d5cb77-699a-4769-8aa7-0456838d91bd.png)
+![image](https://user-images.githubusercontent.com/105679480/186894735-578e0a7b-34b2-4d00-8576-d130d8b15fe3.png)
+![image](https://user-images.githubusercontent.com/105679480/186894773-35648cf6-ce26-4fb2-b947-ad1600255300.png)
+![image](https://user-images.githubusercontent.com/105679480/186894806-76f19ee2-fdd0-4f17-8225-3e7283bfae2e.png)
+![image](https://user-images.githubusercontent.com/105679480/186894834-0f35cbe0-7c63-40c9-82bc-c9947d3e8e64.png)
+![image](https://user-images.githubusercontent.com/105679480/186894863-f37e747b-73c7-4dbf-b766-a27473b7ea03.png)
+![image](https://user-images.githubusercontent.com/105679480/186894901-d828cb7d-3a28-4c62-a932-2fee1a639cf9.png)
 
-Se describe la teoría o conjunto teórico apropiado con la cual el investigador enfrenta su proyecto y la realidad dentro del cual se ubica el problema de investigación, incluye:
-* Describir la actual relación entre el problema enunciado y el sistema o sistemas teóricos/conceptuales que pueden guiarlo.
-* Dejar claramente especificada la relación entre la teoría que guía la investigación y la realidad que se percibe como problema de investigación.
-* Conceptualizar el problema en la forma de un modelo, útil para clarificar los conceptos y relaciones conceptuales.
-* Señalar la forma en que la investigación actual enriquece, amplía y profundiza el conocimiento teórico, sustantivo y metodológico acumulado en estudios previos.
 
-Para su desarrollo debe evitarse en lo posible redactar párrafos continuos de texto, para lo cual se debe utilizar  mentefactos, cuadro comparativos, esquemas o mapas conceptuales
-
-El contenido debe ser desarrollado.
 
 3. EXPLICACIÓN DEL PROCEDIMIENTO
 
