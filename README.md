@@ -79,7 +79,7 @@ El contenido debe ser desarrollado.
 
 ![image](https://user-images.githubusercontent.com/105570939/186830410-f46582ee-4c05-4c37-8fc4-2c8075984db4.png)
 
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/105570939/186830712-0bb515b6-886e-41ca-beea-216e1d5d4c24.png)
 
 5. VIDEO
 
@@ -89,7 +89,7 @@ En el video se debe explicar 4 ejercicios o problemas.
 
 6. CONCLUSIONES
 
-*Los fasores puede representarse en formas rectangular y polar son dos formas de números complejos que se utilizan para representar cantidades fasoriales. Cada una tiene ciertas ventajas cuando se utiliza en análisis de circuitos, según la aplicación particular. Una cantidad fasorial contiene tanto magnitud como posición angular o fase.
+* Los fasores puede representarse en formas rectangular y polar son dos formas de números complejos que se utilizan para representar cantidades fasoriales. Cada una tiene ciertas ventajas cuando se utiliza en análisis de circuitos, según la aplicación particular. Una cantidad fasorial contiene tanto magnitud como posición angular o fase.
 * Se comprobó el que las operaciones mediante calculadora y por cálculos aritméticos son muy parecidos con un pequeño margen de error.
 * Las operaciones con números complejos nos ayuda a realizar problemas relacionados con circuitos eléctricos en la implementación de fasores.
 
