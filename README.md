@@ -93,7 +93,10 @@ En el video se debe explicar 4 ejercicios o problemas.
 
 7. BIBLIOGRAFÍA
 
-Emplear normas APA para el informe e IEEE para el artículo
+7.- Números complejos. | E05.- Circuitos eléctricos de corriente alterna. (s. f.). ikastaroak. Recuperado 20 de agosto de 2022, de https://ikastaroak.birt.eus/edu/argitalpen/backupa/20200331/1920k/es/IEA/E/E05/es_IEA_E05_Contenidos/website_7_nmeros_complejos.html#:%7E:text=Los%20n%C3%BAmeros%20complejos%20son%20una,se%20le%20denomina%20eje%20imaginario.
+
+Heredia, V. (s. f.). APLICACIONES DE LOS NUMEROS COMPLEJOS A LA ELECTRICIDAD. slideshare. Recuperado 20 de agosto de 2022, de https://es.slideshare.net/vivaldi54/trabajo-27384868
+
 
 
 RUBRICA
