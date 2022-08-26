@@ -81,9 +81,7 @@ Realizar operaciones aritméticas con números complejos, tanto en su forma pola
 
 5. VIDEO
 
-Aqui den estar el link de youtube de los videos en los que se explique el funcionamiento y la implementación del proyecto.
-En el video se debe explicar 4 ejercicios o problemas.
-
+https://youtu.be/HVQ8ntx4Lfg
 
 6. CONCLUSIONES
 
