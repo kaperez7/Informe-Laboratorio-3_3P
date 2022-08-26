@@ -23,17 +23,18 @@ Considerar la Taxonomía de Bloom
 
 2. MARCO TEÓRICO 
 
-Este punto requiere que el estudiante realice una amplia consulta bibliográfica sobre el tema de su trabajo.
+![image](https://user-images.githubusercontent.com/105679480/186820067-ba462d39-6bc9-4ec2-b153-df318577d69b.png)
+![image](https://user-images.githubusercontent.com/105679480/186820237-d4c72bf0-88ba-4e78-8e29-da11901947bb.png)
+![image](https://user-images.githubusercontent.com/105679480/186820339-cb5d24f8-e77b-42d3-8087-22ff7de6661c.png)
+![image](https://user-images.githubusercontent.com/105679480/186820439-66038fc9-5e23-45cf-8a68-570bc8be9215.png)
+![image](https://user-images.githubusercontent.com/105679480/186820460-f52ce35e-c2f9-4832-83f0-0ee1fb68dcc9.png)
+![image](https://user-images.githubusercontent.com/105679480/186820487-58a8a122-9a7f-4d21-8808-08fecf428e5b.png)
+![image](https://user-images.githubusercontent.com/105679480/186820505-3dfa212f-4bd6-46de-8709-cb8cf08958af.png)
+![image](https://user-images.githubusercontent.com/105679480/186820537-6e7ec969-a832-4630-b074-1c4346332bca.png)
+![image](https://user-images.githubusercontent.com/105679480/186820572-e3011960-4f0f-42d2-ade8-099169493d8c.png)
+![image](https://user-images.githubusercontent.com/105679480/186820596-a24f3599-ff24-44e6-873f-06335edc50ba.png)
 
-Se describe la teoría o conjunto teórico apropiado con la cual el investigador enfrenta su proyecto y la realidad dentro del cual se ubica el problema de investigación, incluye:
-* Describir la actual relación entre el problema enunciado y el sistema o sistemas teóricos/conceptuales que pueden guiarlo.
-* Dejar claramente especificada la relación entre la teoría que guía la investigación y la realidad que se percibe como problema de investigación.
-* Conceptualizar el problema en la forma de un modelo, útil para clarificar los conceptos y relaciones conceptuales.
-* Señalar la forma en que la investigación actual enriquece, amplía y profundiza el conocimiento teórico, sustantivo y metodológico acumulado en estudios previos.
 
-Para su desarrollo debe evitarse en lo posible redactar párrafos continuos de texto, para lo cual se debe utilizar  mentefactos, cuadro comparativos, esquemas o mapas conceptuales
-
-El contenido debe ser desarrollado.
 
 3. EXPLICACIÓN DEL PROCEDIMIENTO
 
