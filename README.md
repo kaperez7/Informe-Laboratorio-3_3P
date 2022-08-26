@@ -47,7 +47,7 @@ Realizar operaciones aritméticas con números complejos, tanto en su forma pola
 
 ![image](https://user-images.githubusercontent.com/105570939/186825142-2afee71b-20e8-4bf5-9bd3-0111ccd04955.png)
 
-![image](https://user-images.githubusercontent.com/105570939/186827109-e647e22a-96a3-467c-a213-574bd8140ff6.png)
+![image](https://user-images.githubusercontent.com/105570939/186904685-86c04e54-c4f1-4832-b03d-2163f1518b5e.png)
 
 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
